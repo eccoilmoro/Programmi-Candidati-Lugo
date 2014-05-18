@@ -1,79 +1,158 @@
-<!DOCTYPE html>
 <html>
 
   <head>
-    <meta charset='utf-8' />
-    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
-    <meta name="description" content="Programmi-candidati-lugo : I programmi elettorali di 3 liste per le elezioni 2014" />
+    <title>Programmi elettorali Elezioni amministrative 2014</title>
 
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+    <script src="http://static.simile.mit.edu/exhibit/api-dev/exhibit-api.js?autoCreate=false" type="text/javascript"></script> 
+    <link rel="exhibit/data" href="programmi.js" type="application/json" />
 
-    <title>Programmi-candidati-lugo</title>
-  </head>
+	<script>
+Exhibit.Functions["contains"] = {
+    f: function(args) {
+        var result = args[0].size > 0;
+        var set = args[0].getSet();
+        
+        args[1].forEachValue(function(v) {
+            if (!set.contains(v)) {
+                result = false;
+                return true;
+            }
+        });
+        
+        return new Exhibit.Expression._Collection([ result ? "true" : "false" ], "boolean");
+    }
+};
 
-  <body>
+		function onLoad() {
+			window.database = Exhibit.Database.create();
+			window.database.loadDataLinks(onDataLoaded);
+		}
+		
+		function onDataLoaded() {
+			window.exhibit = Exhibit.create();
+		
+			createCollections();
+		
+			window.exhibit.configureFromDOM();
+		};
+		
+		function createCollections() {
+			
+			var everybody1 = new Exhibit.Collection.create2("everybody1", {}, window.exhibit.getUIContext());
+			window.exhibit.setCollection("everybody1", everybody1);
+		
+			var ranalli = Exhibit.Collection.create2("ranalli", { baseCollectionID: "everybody1", expression: "filter(value, contains(.type, 'RANALLI'))" }, window.exhibit.getUIContext());
+			window.exhibit.setCollection("ranalli", ranalli);
+			
+			var verlicchi = Exhibit.Collection.create2("verlicchi", { baseCollectionID: "everybody1", expression: "filter(value, contains(.type, 'VERLICCHI'))" }, window.exhibit.getUIContext());
+			window.exhibit.setCollection("verlicchi", verlicchi);
+			
+			var coppola = Exhibit.Collection.create2("coppola", { baseCollectionID: "everybody1", expression: "filter(value, contains(.type, 'COPPOLA'))" }, window.exhibit.getUIContext());
+			window.exhibit.setCollection("coppola", coppola);
+			
+			var everybody2 = new Exhibit.Collection("everybody2", database);
+			everybody2._update = function() {
+				this._items = new Exhibit.Set(ranalli.getRestrictedItems());
+				this._items.addSet(verlicchi.getRestrictedItems());
+				this._items.addSet(coppola.getRestrictedItems());
+				this._onRootItemsChanged();
+			};
+			everybody2._listener = { onItemsChanged: function() { everybody2._update(); } };
+			ranalli.addListener(everybody2._listener);
+			coppola.addListener(everybody2._listener);
+			verlicchi.addListener(everybody2._listener);
+			everybody2._update();
+			window.exhibit.setCollection("everybody2", everybody2);
+		};
 
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/eccoilmoro/Programmi-Candidati-Lugo">View on GitHub</a>
+	</script>
+	
+	
+	<style>
+	body {
+           margin: 0in;
+       }
+	   
+table.exhibit-tabularView-body
+{
+font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+width:100%;
+border-collapse:collapse;
+}
+table.exhibit-tabularView-body td, table.exhibit-tabularView-body th 
+{
+font-size:1em;
+border:1px solid #98bf21;
+padding:3px 7px 2px 7px;
+}
+table.exhibit-tabularView-body th 
+{
+font-size:1.1em;
+text-align:left;
+padding-top:5px;
+padding-bottom:4px;
+background-color:#A7C942;
+color:#ffffff;
+}
+table.exhibit-tabularView-body tr.alt td 
+{
+color:#000000;
+background-color:#EAF2D3;
+}
+   
 
-          <h1 id="project_title">Programmi-candidati-lugo</h1>
-          <h2 id="project_tagline">I programmi elettorali di 3 liste per le elezioni 2014</h2>
-
-            <section id="downloads">
-              <a class="zip_download_link" href="https://github.com/eccoilmoro/Programmi-Candidati-Lugo/zipball/master">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="https://github.com/eccoilmoro/Programmi-Candidati-Lugo/tarball/master">Download this project as a tar.gz file</a>
-            </section>
-        </header>
-    </div>
-
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <h3>
-<a name="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages"><span class="octicon octicon-link"></span></a>Welcome to GitHub Pages.</h3>
-
-<p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>
-
-<pre><code>$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-</code></pre>
-
-<p>If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.</p>
-
-<h3>
-<a name="designer-templates" class="anchor" href="#designer-templates"><span class="octicon octicon-link"></span></a>Designer Templates</h3>
-
-<p>We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.</p>
-
-<h3>
-<a name="rather-drive-stick" class="anchor" href="#rather-drive-stick"><span class="octicon octicon-link"></span></a>Rather Drive Stick?</h3>
-
-<p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages</code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>
-
-<h3>
-<a name="authors-and-contributors" class="anchor" href="#authors-and-contributors"><span class="octicon octicon-link"></span></a>Authors and Contributors</h3>
-
-<p>You can <a href="https://github.com/blog/821" class="user-mention">@mention</a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
-
-<h3>
-<a name="support-or-contact" class="anchor" href="#support-or-contact"><span class="octicon octicon-link"></span></a>Support or Contact</h3>
-
-<p>Having trouble with Pages? Check out the documentation at <a href="http://help.github.com/pages">http://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
-      </section>
-    </div>
-
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p class="copyright">Programmi-candidati-lugo maintained by <a href="https://github.com/eccoilmoro">eccoilmoro</a></p>
-        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
-
-    
-
-  </body>
+</style>
+</head>
+<body onload="onLoad();">
+ 
+ 
+    <h1>Programmi elettorali elezioni amministrative Lugo 2014</h1>
+    <table width="100%" border="1" cellpadding="10">
+        <tr valign="top">
+			<td width="25%">
+				<div ex:role="facet"
+					ex:expression=".TEMA"
+					ex:facetLabel="TEMA"
+					ex:collectionID="everybody1"
+					></div>
+				<div ex:role="facet" ex:facetClass="TextSearch" ex:facetLabel="Cerca" ex:collectionID="everybody1"></div>
+			</td>
+            
+         
+				<td ex:role="viewPanel">
+               <div ex:role="exhibit-view"
+                   ex:viewClass="Exhibit.TabularView"
+                   ex:columns=".TEMA,.label"
+                   ex:columnLabels="Tema,Proposta"
+                   ex:columnFormats="list,list"
+                   ex:sortColumn="0"
+                   ex:sortAscending="true"
+				   ex:collectionID="ranalli">
+               </div>
+			 </td>
+			 <td ex:role="viewPanel">
+               <div ex:role="exhibit-view"
+                   ex:viewClass="Exhibit.TabularView"
+                   ex:columns=".TEMA,.label"
+                   ex:columnLabels="Tema,Proposta"
+                   ex:columnFormats="list,list"
+                   ex:sortColumn="0"
+                   ex:sortAscending="true"
+				   ex:collectionID="verlicchi">
+               </div>
+			 </td>
+			 <td ex:role="viewPanel">
+               <div ex:role="exhibit-view"
+                   ex:viewClass="Exhibit.TabularView"
+                   ex:columns=".TEMA,.label"
+                   ex:columnLabels="Tema,Proposta"
+                   ex:columnFormats="list,list"
+                   ex:sortColumn="0"
+                   ex:sortAscending="true"
+				   ex:collectionID="coppola">
+               </div>
+			 </td>
+		</tr>
+	</table>
+</body>
 </html>
