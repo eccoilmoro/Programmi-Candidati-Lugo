@@ -1,8 +1,7 @@
-﻿{
+{
 	"items" :      [
 		{
 			"TEMA" :  "AMBIENTE E TERRITORIO",
-			"ord" :   354,
 			"label" : "Il progetto e` quello\ndi unire la tutela e la cura dei parchi urbani con la possibilita` \/\nnecessita` per i cittadini di coltivare il proprio appezzamento di\nterra.",
 			"type" :  "COPPOLA"
 		},
@@ -26,13 +25,16 @@
 		},
 		{
 			"TEMA" :  "AMBIENTE E TERRITORIO",
-			"ord" :   352,
 			"label" : "previsto un progetto strutturale di\nmanutenzione e potenziamento dell\u2019alveo fluviale del\nSenio e lavoreremo all\u2019interno dell\u2019Unione dei Comuni per\nrealizzare un progetto condiviso di casse di espansione\nposizionate in modo strategico",
 			"type" :  "COPPOLA"
 		},
 		{
+			"TEMA" :  "ASSOCIAZIONI E SPORT",
+			"label" : "Politiche di integrazione tra la scuola e \nlo sport, per incentivare attivit\u00E0 sportive \npomeridiane ed extra-scolastiche e creare un \ncontesto di competizione sportiva tra i diversi \nistituti del comprensorio, da allargare alla \nBassa Romagna tutta.",
+			"type" :  "COPPOLA"
+		},
+		{
 			"TEMA" :  "CULTURA-EVENTI-TURISMO",
-			"ord" :   399,
 			"label" : "individuera` gli edifici gia` di proprieta` del\ncomune in cui organizzare percorsi di studi modulari di\nartigianato e artigianato artistico",
 			"type" :  "COPPOLA"
 		},
@@ -49,8 +51,12 @@
 			"type" :  "VERLICCHI"
 		},
 		{
+			"TEMA" :  "ASSOCIAZIONI E SPORT",
+			"label" : "Borse di studio per finanziare l\u2019attivit\u00E0 \nsportiva di giovani meritevoli.",
+			"type" :  "COPPOLA"
+		},
+		{
 			"TEMA" :  "ECONOMIA E IMPRESE",
-			"ord" :   373,
 			"label" : "fara`\ngarante di verifiche piu` stringenti sugli ambulanti.\nTutti dovranno avere licenza e permessi in regola e pagare i\ncontributi nel modo corretto.",
 			"type" :  "COPPOLA"
 		},
@@ -61,10 +67,20 @@
 			"type" :  "VERLICCHI"
 		},
 		{
+			"TEMA" :  "SVILUPPO URBANO",
+			"label" : "Potenziamento dei servizi (edifici sportivi, culturali, sanitari) nelle frazioni",
+			"type" :  "COPPOLA"
+		},
+		{
 			"TEMA" :  "INNOVAZIONE DIGITALE E DELLA PA - TRASPARENZA",
 			"ord" :   271,
 			"label" : "accentrare le inefficienze per trasformarle in situazione di efficienza. L\'Unione infatti deve\nessere considerata un\'opportunit\u00E0 volta a migliorare la qualit\u00E0 dei servizi e non solo una\nriduzione di spesa",
 			"type" :  "VERLICCHI"
+		},
+		{
+			"TEMA" :  "SICUREZZA E LEGALITA",
+			"label" : "Analisi dei bilanci come primo \nprovvedimento d\u2019inizio mandato e, in caso \ndi riscontri anomali da parte della Guardia \ndi Finanza, richiesta di verifica da parte \ndella Corte dei Conti.",
+			"type" :  "COPPOLA"
 		},
 		{
 			"TEMA" :  "ECONOMIA E IMPRESE",
@@ -86,13 +102,16 @@
 		},
 		{
 			"TEMA" :  "ECONOMIA E IMPRESE",
-			"ord" :   358,
 			"label" : "E\u2019 pertanto prioritario sostenere il ricambio generazionale,\ninteso come la capacita` del settore di attrarre giovani\nprofessionalizzati disposti a intraprendere l\u2019attivita`\nagricola",
 			"type" :  "COPPOLA"
 		},
 		{
+			"TEMA" :  "SICUREZZA E LEGALITA",
+			"label" : "Lotta alle truffe ai danni del welfare locale \ngrazie alle nuove banche dati di cui \nl\u2019amministrazione finanziaria si \u00E8 \nrecentemente dotata.",
+			"type" :  "COPPOLA"
+		},
+		{
 			"TEMA" :  "WELFARE",
-			"ord" :   322,
 			"label" : "Casa - creazione di un consorzio senza scopo di\nlucro che gestisca un comparto immobiliare pubblico e\nprivato a tutela sia dei locatari che dei locatori",
 			"type" :  "COPPOLA"
 		},
@@ -104,13 +123,11 @@
 		},
 		{
 			"TEMA" :  "SCUOLA E LAVORO",
-			"ord" :   381,
 			"label" : "Faremo in modo che i genitori formino commissioni mensa\nattive e funzionanti ovunque, e che possano definire dei\ncriteri di controllo e di trasparenza per le gare d\u2019appalto",
 			"type" :  "COPPOLA"
 		},
 		{
 			"TEMA" :  "AMBIENTE E TERRITORIO",
-			"ord" :   341,
 			"label" : "Fondendo in consorzio\nun determinato numero di agricoltori, anche utilizzando i\nfondi europei, si dovra` investire sulla nuova filiere della bio-\nedilizia",
 			"type" :  "COPPOLA"
 		},
@@ -133,8 +150,12 @@
 			"type" :  "RANALLI"
 		},
 		{
+			"TEMA" :  "INNOVAZIONE DIGITALE E DELLA PA - TRASPARENZA",
+			"label" : "Connettivit\u00E0 libera e gratuita: estensione \nzona wi-fi su tutto il territorio comunale e \ndiffusione di piattaforme open source.",
+			"type" :  "COPPOLA"
+		},
+		{
 			"TEMA" :  "ECONOMIA E IMPRESE",
-			"ord" :   365,
 			"label" : "\u201Cfunzioni generali di amministrazione\u201D risulta una\nspesa complessiva di circa 1.851.000 euro per Prestazioni di\nServizi. Essendo questa voce accessoria e dipendente da accordi\ncon parti terze, si intende ridurla sensibilmente",
 			"type" :  "COPPOLA"
 		},
@@ -145,14 +166,22 @@
 			"type" :  "VERLICCHI"
 		},
 		{
+			"TEMA" :  "INNOVAZIONE DIGITALE E DELLA PA - TRASPARENZA",
+			"label" : "Obbligo di pianificare appalti pubblici con \nla partecipazione della cittadinanza.",
+			"type" :  "COPPOLA"
+		},
+		{
 			"TEMA" :  "MOBILITA",
-			"ord" :   318,
 			"label" : "Entro il 2024 tutti i cittadini delle\nprincipali vie del centro e dei centri urbani delle frazioni\navranno il piacere di spostarsi all\u2019interno delle aree\ndelimitate in bicicletta e con mezzi pubblici elettrici",
 			"type" :  "COPPOLA"
 		},
 		{
+			"TEMA" :  "INNOVAZIONE DIGITALE E DELLA PA - TRASPARENZA",
+			"label" : "Creazione di una piattaforma online per la \ndemocrazia partecipata.",
+			"type" :  "COPPOLA"
+		},
+		{
 			"TEMA" :  "AMBIENTE E TERRITORIO",
-			"ord" :   349,
 			"label" : "Rifiuti - M5S si impegnera` ad un ulteriore sconto\nsulla tariffa dei rifiuti per i voltanesi",
 			"type" :  "COPPOLA"
 		},
@@ -188,7 +217,6 @@
 		},
 		{
 			"TEMA" :  "CULTURA-EVENTI-TURISMO",
-			"ord" :   408,
 			"label" : "In primis la creazione del brand. Lo studio preliminare\nsvolto ha individuato in Romagna d\u2019Este una scelta\ncompetitiva. Il brand e` gia` esistente, ma necessita\nun rilancio di valori e di comunicazione",
 			"type" :  "COPPOLA"
 		},
@@ -200,7 +228,6 @@
 		},
 		{
 			"TEMA" :  "WELFARE",
-			"ord" :   328,
 			"label" : "Sosterremo i\ngruppi di acquisto equo-solidale, le iniziative di co-housing,\nle imprese di comunita`",
 			"type" :  "COPPOLA"
 		},
@@ -236,7 +263,6 @@
 		},
 		{
 			"TEMA" :  "ECONOMIA E IMPRESE",
-			"ord" :   364,
 			"label" : "forte incentivo per tutti\ni ristoratori ad acquistare e rivendere solamente prodotti\nlocali. Infatti a fronte di un\u2019offerta di prodotti tipici, gli\nimprenditori eno-gastronomici potranno usufruire di una\nriduzione sensibile delle tasse comunali.",
 			"type" :  "COPPOLA"
 		},
@@ -254,7 +280,6 @@
 		},
 		{
 			"TEMA" :  "AMBIENTE E TERRITORIO",
-			"ord" :   355,
 			"label" : "L\u2019obiettivo e` investire in\nlampade a basto costo alimentate da celle fotovoltaiche per\ndimezzare la meta` la spesa.",
 			"type" :  "COPPOLA"
 		},
@@ -266,7 +291,6 @@
 		},
 		{
 			"TEMA" :  "WELFARE",
-			"ord" :   334,
 			"label" : "riduzione dei costi di mantenimento dei figli e un\u2019offerta\npiu` qualificata e con una copertura temporale maggiore.",
 			"type" :  "COPPOLA"
 		},
@@ -296,7 +320,6 @@
 		},
 		{
 			"TEMA" :  "MOBILITA",
-			"ord" :   319,
 			"label" : "previsti nuovi parcheggi in concomitanza delle zone ad alta\ndensita` commerciale e nelle vicinanze delle aree industriali,\ntutti con servizi di bike-sharing, car-sharing e trasporto\npubblico elettrico",
 			"type" :  "COPPOLA"
 		},
@@ -307,8 +330,13 @@
 			"type" :  "VERLICCHI"
 		},
 		{
+			"TEMA" :  "WELFARE",
+			"ord" :   186,
+			"label" : "valorizzare le potenzialit\u00E0 e gli interessi delle persone che escono dal ciclo produttivo, mettendole\nin relazione con le realt\u00E0 associative del territorio e del volontariato locale;",
+			"type" :  "VERLICCHI"
+		},
+		{
 			"TEMA" :  "ECONOMIA E IMPRESE",
-			"ord" :   366,
 			"label" : "riducendo le tasse sugli immobili e i\nbeni strumentali di commercianti , artigiani, agricoltori ed\nimprenditori.",
 			"type" :  "COPPOLA"
 		},
@@ -319,12 +347,6 @@
 			"type" :  "RANALLI"
 		},
 		{
-			"TEMA" :  "WELFARE",
-			"ord" :   186,
-			"label" : "valorizzare le potenzialit\u00E0 e gli interessi delle persone che escono dal ciclo produttivo, mettendole\nin relazione con le realt\u00E0 associative del territorio e del volontariato locale;",
-			"type" :  "VERLICCHI"
-		},
-		{
 			"TEMA" :  "AMBIENTE E TERRITORIO",
 			"ord" :   236,
 			"label" : "adottare un sistema di incentivi (ad esempio economici e volumetrici) che favoriscano la\nriqualificazione energetica degli edifici esistenti",
@@ -332,14 +354,14 @@
 		},
 		{
 			"TEMA" :  "SICUREZZA E LEGALITA",
-			"ord" :   167,
-			"label" : "potenziare e specializzare il corpo dell\u2019Unione dei\nComuni della Bassa Romagna, con l\u2019obiettivo di assicurare il servizio sette giorni su\nsette per l\u2019intero arco delle ventiquattro ore",
+			"ord" :   152,
+			"label" : "rafforzare tutte le iniziative \u2013 di socialit\u00E0, aggregazione, cura dei beni comuni, volontariato,educazione civica, cittadinanza attiva \u2013 che promuovono il senso civico e sollecitano ciascunodi noi a considerare la citt\u00E0 in cui viviamo un patrimonio comune,",
 			"type" :  "RANALLI"
 		},
 		{
 			"TEMA" :  "SICUREZZA E LEGALITA",
-			"ord" :   152,
-			"label" : "rafforzare tutte le iniziative \u2013 di socialit\u00E0, aggregazione, cura dei beni comuni, volontariato,educazione civica, cittadinanza attiva \u2013 che promuovono il senso civico e sollecitano ciascunodi noi a considerare la citt\u00E0 in cui viviamo un patrimonio comune,",
+			"ord" :   167,
+			"label" : "potenziare e specializzare il corpo dell\u2019Unione dei\nComuni della Bassa Romagna, con l\u2019obiettivo di assicurare il servizio sette giorni su\nsette per l\u2019intero arco delle ventiquattro ore",
 			"type" :  "RANALLI"
 		},
 		{
@@ -368,13 +390,11 @@
 		},
 		{
 			"TEMA" :  "CULTURA-EVENTI-TURISMO",
-			"ord" :   394,
 			"label" : "creare\nambienti e contesti per la diffusione di tutte le arti",
 			"type" :  "COPPOLA"
 		},
 		{
 			"TEMA" :  "SCUOLA E LAVORO",
-			"ord" :   376,
 			"label" : "sosterra` la costituzione di reti di scuole su\nprogetti finalizzati alla ricerca didattica e alla formazione\nin servizio del personale, realizzando specifici progetti di\narricchimento curriculare",
 			"type" :  "COPPOLA"
 		},
@@ -433,6 +453,11 @@
 			"type" :  "VERLICCHI"
 		},
 		{
+			"TEMA" :  "SICUREZZA E LEGALITA",
+			"label" : "Aggiornamento della Polizia Municipale \nper specialit\u00E0 (reati ambientali, reati \nfinanziari, ecc..).",
+			"type" :  "COPPOLA"
+		},
+		{
 			"TEMA" :  "CULTURA-EVENTI-TURISMO",
 			"ord" :   116,
 			"label" : "valorizzare il centro e le frazioni con eventi culturali artistici, musicali, di poesia e rassegne\ncinematografiche d\'autore in luoghi accessibili e fruibili.",
@@ -458,7 +483,6 @@
 		},
 		{
 			"TEMA" :  "SANITA",
-			"ord" :   415,
 			"label" : "mobilitazione di massa in tutti i nove comuni della Bassa\nRomagna e in quello di Russi per la firma di una petizione\nche raccolga l\u2019istanza deliberativa per la provincia di\nRavenna della tutela dell\u2019Ospedale di Lugo",
 			"type" :  "COPPOLA"
 		},
@@ -482,6 +506,11 @@
 		},
 		{
 			"TEMA" :  "MOBILITA",
+			"label" : "Creazione di una rete di trasporto urbano \ne della Bassa Romagna con mezzi elettrici.",
+			"type" :  "COPPOLA"
+		},
+		{
+			"TEMA" :  "MOBILITA",
 			"ord" :   179,
 			"label" : "promuovere sul territorio il servizio di \u201Cbike sharing",
 			"type" :  "VERLICCHI"
@@ -500,19 +529,16 @@
 		},
 		{
 			"TEMA" :  "SCUOLA E LAVORO",
-			"ord" :   377,
 			"label" : "valorizzazione della\nricerca e l\u2019innovazione educativo-didattica condotta da\ninsegnanti, attivando collaborazioni con enti, istituzioni,\nassociazioni professionali e PMI",
 			"type" :  "COPPOLA"
 		},
 		{
 			"TEMA" :  "AMBIENTE E TERRITORIO",
-			"ord" :   342,
 			"label" : "Rifiuti - In sinergia con il progetto Rifiuti 0,\nsara` inoltre possibile produrre dal riciclo di vetro e carta\nmateriali per bio-edilizia",
 			"type" :  "COPPOLA"
 		},
 		{
 			"TEMA" :  "WELFARE",
-			"ord" :   325,
 			"label" : "Avvieremo un censimento approfondito sulla poverta`\nnel territorio e analizzeremo le condizioni specifiche\ndelle diverse tipologie",
 			"type" :  "COPPOLA"
 		},
@@ -523,6 +549,11 @@
 			"type" :  "RANALLI"
 		},
 		{
+			"TEMA" :  "SVILUPPO URBANO",
+			"label" : "Riqualificare piazza Girolamo Savonarola",
+			"type" :  "COPPOLA"
+		},
+		{
 			"TEMA" :  "AMBIENTE E TERRITORIO",
 			"ord" :   234,
 			"label" : "favorire e promuovere gli obiettivi e le linee fissate dal protocollo relativo agli edifici a\nbasso consumo: informare le persone circa i vantaggi del risparmio energetico e\npromuovere la formazione dei tecnici della PA e i liberi professionisti;",
@@ -530,7 +561,6 @@
 		},
 		{
 			"TEMA" :  "CULTURA-EVENTI-TURISMO",
-			"ord" :   396,
 			"label" : "promuovere esperienze formative ed imprenditoriali per i\ngiovani nel settore della cultura.",
 			"type" :  "COPPOLA"
 		},
@@ -554,7 +584,6 @@
 		},
 		{
 			"TEMA" :  "INTEGRAZIONE",
-			"ord" :   409,
 			"label" : "attivare percorsi che permettano\nai nuovi cittadini di comprendere gli usi e costumi della\nsocieta` romagnola,",
 			"type" :  "COPPOLA"
 		},
@@ -571,15 +600,13 @@
 			"type" :  "VERLICCHI"
 		},
 		{
-			"TEMA" :  "ECONOMIA E IMPRESE",
-			"ord" :   363,
-			"label" : "case coloniche , ci si impegna nell\u2019incentivare la nascita\ndi un\u2019associazione che pianifichi la riconversione di queste\nmagioni in agriturismi e case museo rurali, mediante\nfondi europei e la crezione di una struttura associativa che\ngarantisca lo stanziamento di fondi per eventi culturali.\nVerranno selezionate in tutto 20 strutture,",
+			"TEMA" :  "INNOVAZIONE DIGITALE E DELLA PA - TRASPARENZA",
+			"label" : "la creazione di un laboratorio multimediale in cui\nsperimentare le nuove tecniche di produzione e di stampa\n3D,",
 			"type" :  "COPPOLA"
 		},
 		{
-			"TEMA" :  "INNOVAZIONE DIGITALE E DELLA PA - TRASPARENZA",
-			"ord" :   385,
-			"label" : "la creazione di un laboratorio multimediale in cui\nsperimentare le nuove tecniche di produzione e di stampa\n3D,",
+			"TEMA" :  "ECONOMIA E IMPRESE",
+			"label" : "case coloniche , ci si impegna nell\u2019incentivare la nascita\ndi un\u2019associazione che pianifichi la riconversione di queste\nmagioni in agriturismi e case museo rurali, mediante\nfondi europei e la crezione di una struttura associativa che\ngarantisca lo stanziamento di fondi per eventi culturali.\nVerranno selezionate in tutto 20 strutture,",
 			"type" :  "COPPOLA"
 		},
 		{
@@ -590,8 +617,12 @@
 		},
 		{
 			"TEMA" :  "AMBIENTE E TERRITORIO",
-			"ord" :   338,
 			"label" : "blocchera` la cementificazione del territorio,\navendo come obiettivo finale quello di far occupare tutti\ngli immobili attualmente sfitti, riqualificare il paesaggio\nurbano ed extra-urbano",
+			"type" :  "COPPOLA"
+		},
+		{
+			"TEMA" :  "SVILUPPO URBANO",
+			"label" : "Riqualificare la zona commerciale di Via Piratello che include il centro commerciale Iris e Marco Polo Expert.",
 			"type" :  "COPPOLA"
 		},
 		{
@@ -614,7 +645,6 @@
 		},
 		{
 			"TEMA" :  "AMBIENTE E TERRITORIO",
-			"ord" :   351,
 			"label" : "Verde pubblico - Sono inoltre previste forme di tutoraggio e vigilanza da\nparte di quei cittadini che si renderanno disponibili, in\nmodo da responsabilizzare i lughesi e valorizzare il verde\ncomunale e privato",
 			"type" :  "COPPOLA"
 		},
@@ -626,7 +656,6 @@
 		},
 		{
 			"TEMA" :  "CULTURA-EVENTI-TURISMO",
-			"ord" :   397,
 			"label" : "realizzare una biennale che si ponga come obiettivo\nlo stimolo dell\u2019interazione tra industria, mondo produttivo\ned arti applicate. In questa ottica lavoreremo affinche\u00B4 la\nbiennale di Lugo assuma una grande rilevanza mediatica a\nlivello nazionale per pubblicizzare l\u2019ambiente produttivo e\nl\u2019innovazione di tutta la romagna",
 			"type" :  "COPPOLA"
 		},
@@ -644,7 +673,6 @@
 		},
 		{
 			"TEMA" :  "CULTURA-EVENTI-TURISMO",
-			"ord" :   390,
 			"label" : "Faciliteremo lo scambio culturale con le citt\u00E0 gemellate, invitando professionisti ed artisti di chiara fama a tenere lectio magistralis",
 			"type" :  "COPPOLA"
 		},
@@ -662,7 +690,6 @@
 		},
 		{
 			"TEMA" :  "ECONOMIA E IMPRESE",
-			"ord" :   369,
 			"label" : "creazione di un bando per\nconvenzionare esercizi che si impegnano a vendere\napplicando scontistiche importanti che il comune\nprovvedera` a rimborsare.\nPossono partecipare al bando per gli esercizi commerciali\nche ottemperano ad una o a tutte queste condizioni:\n1. Modificano il proprio orario di lavoro andando incontro\nalle esigenze della comunita`\n2. La vendita di merce sfusa e alla spina (50% del totale),\nincentivando la riduzione dei rifiuti da imballo.\n3. Hanno sede in un locale del centro storico di Lugo.\n4. Acquistano e vendono prodotti a chilometro 0 (70% del\ntotale, sia materie prime che prodotti di artigianato ed\nindustria locale).\n5. Hanno almeno un impiegato (anche part-time).",
 			"type" :  "COPPOLA"
 		},
@@ -674,7 +701,6 @@
 		},
 		{
 			"TEMA" :  "WELFARE",
-			"ord" :   320,
 			"label" : "Il M5S vuola assicurare\nla permanenza al domicilio delle persone nelle migliori\ncondizioni di benessere possibile,",
 			"type" :  "COPPOLA"
 		},
@@ -686,7 +712,6 @@
 		},
 		{
 			"TEMA" :  "WELFARE",
-			"ord" :   331,
 			"label" : "Saranno quindi privilegiati quegli interventi che\nfavoriscono l\u2019attivita` educativa di gruppo, l\u2019attivazione\ndei genitori e la socializzazione in particolare per bambini\ne ragazzi con disabilita",
 			"type" :  "COPPOLA"
 		},
@@ -703,8 +728,13 @@
 			"type" :  "RANALLI"
 		},
 		{
+			"TEMA" :  "CULTURA-EVENTI-TURISMO",
+			"ord" :   127,
+			"label" : "proporremo la costituzione di una orchestra giovanile di area romagnola",
+			"type" :  "RANALLI"
+		},
+		{
 			"TEMA" :  "ECONOMIA E IMPRESE",
-			"ord" :   371,
 			"label" : "Banca del tempo La finalita` della banca del tempo sara` in primis quella\ndi garantire agli indigenti e alle persone in difficolta`\neconomica prestazioni e servizi in cambio delle reciproche\ncompetenze e del reciproco sapere",
 			"type" :  "COPPOLA"
 		},
@@ -713,12 +743,6 @@
 			"ord" :   170,
 			"label" : "proporre nuovi servizi di mobilit\u00E0 pubblica, come avviene in Nord Europa, ad esempio con\nservizi a chiamata, particolarmente utili per gli abitanti delle frazioni o per i giovani durante\nil fine settimana;",
 			"type" :  "VERLICCHI"
-		},
-		{
-			"TEMA" :  "CULTURA-EVENTI-TURISMO",
-			"ord" :   127,
-			"label" : "proporremo la costituzione di una orchestra giovanile di area romagnola",
-			"type" :  "RANALLI"
 		},
 		{
 			"TEMA" :  "AMBIENTE E TERRITORIO",
@@ -758,7 +782,6 @@
 		},
 		{
 			"TEMA" :  "CULTURA-EVENTI-TURISMO",
-			"ord" :   392,
 			"label" : "ripenseremo le zone disabitate e squallide della citt\u00E0 come centro di coordinamento di laboratori ed attivit\u00E0 culturali",
 			"type" :  "COPPOLA"
 		},
@@ -769,8 +792,12 @@
 			"type" :  "RANALLI"
 		},
 		{
+			"TEMA" :  "SICUREZZA E LEGALITA",
+			"label" : "Inasprimento dei limiti di prossimit\u00E0 per i \nlocali con slot-machine.",
+			"type" :  "COPPOLA"
+		},
+		{
 			"TEMA" :  "CULTURA-EVENTI-TURISMO",
-			"ord" :   398,
 			"label" : "La\nBiennale dovra` inoltre articolarsi in piu` zone della citta` ,\nassociando alla manifestazione fieristica, iniziative artisticoculturali\ndi livello ed eventi d\u2019intrattenimento.",
 			"type" :  "COPPOLA"
 		},
@@ -779,6 +806,11 @@
 			"ord" :   83,
 			"label" : "La Biblioteca di Lugo, che \u00E8 il nostro centro culturale maggiormente conosciuto e riconosciuto\ndai giovani del territorio, deve essere in grado di fornire informazioni anche su opportunit\u00E0 di\nrespiro europeo e internazionale, nonch\u00E9 sugli scambi di tipo formativo nelle aziende delle\ncitt\u00E0 gemellate.",
 			"type" :  "RANALLI"
+		},
+		{
+			"TEMA" :  "SVILUPPO URBANO",
+			"label" : "Revisione e, nei casi necessari, dismissione di tutti gli appalti che non rispettano i preventivi sulla base dei quali erano stati assegnati",
+			"type" :  "COPPOLA"
 		},
 		{
 			"TEMA" :  "SVILUPPO URBANO",
@@ -800,7 +832,6 @@
 		},
 		{
 			"TEMA" :  "SCUOLA E LAVORO",
-			"ord" :   379,
 			"label" : "Sara` inoltre potenziato l\u2019insegnamento all\u2019educazione\ncivica mediante percorsi scolastici ed extrascolastici da\ncontestualizzare all\u2019interno delle istituzioni locali",
 			"type" :  "COPPOLA"
 		},
@@ -818,14 +849,14 @@
 		},
 		{
 			"TEMA" :  "CULTURA-EVENTI-TURISMO",
-			"ord" :   300,
-			"label" : "implementare le piste ciclabili in funzione del turismo su due ruote",
+			"ord" :   287,
+			"label" : "sar\u00E0 ridimensionata l\u2019occupazione della\nRocca da parte degli uffici comunali in favore di una pi\u00F9 consona destinazione tesa alla\nvalorizzazione e promozione culturale.",
 			"type" :  "VERLICCHI"
 		},
 		{
 			"TEMA" :  "CULTURA-EVENTI-TURISMO",
-			"ord" :   287,
-			"label" : "sar\u00E0 ridimensionata l\u2019occupazione della\nRocca da parte degli uffici comunali in favore di una pi\u00F9 consona destinazione tesa alla\nvalorizzazione e promozione culturale.",
+			"ord" :   300,
+			"label" : "implementare le piste ciclabili in funzione del turismo su due ruote",
 			"type" :  "VERLICCHI"
 		},
 		{
@@ -842,13 +873,16 @@
 		},
 		{
 			"TEMA" :  "CULTURA-EVENTI-TURISMO",
-			"ord" :   406,
 			"label" : "di ricondurre il Pavaglione alla sua vocazione\noriginale, creando al suo interno un mercato permanente\nsullo stile del Mercato Albinelli di Modena",
 			"type" :  "COPPOLA"
 		},
 		{
+			"TEMA" :  "ASSOCIAZIONI E SPORT",
+			"label" : "Rivedere la festa dello sport come evento di \nalcuni giorni in cui sia possibile sperimentare \ndiverse discipline (in modo che funga da \norientamento) e durante il quale i cittadini che \nsi sono distinti siano giustamente tributati.",
+			"type" :  "COPPOLA"
+		},
+		{
 			"TEMA" :  "SANITA",
-			"ord" :   412,
 			"label" : "sara` predisposto uno studio epidemiologico\ne di prestazioni da concludere entro il 2014 per battere\ni pugni sul tavolo e costringere la direzione generale a\npreservare i reparti di Cardiologia, Ginecologia e Ostetricia,\nTraumatologia e Rianimazione",
 			"type" :  "COPPOLA"
 		},
@@ -896,13 +930,11 @@
 		},
 		{
 			"TEMA" :  "ECONOMIA E IMPRESE",
-			"ord" :   370,
 			"label" : "predisposto un ufficio comunale che aiuti a\nrisolvere le situazioni creditizie e debitorie con i cittadini,\nin modo da arginare l\u2019operato di Equitalia",
 			"type" :  "COPPOLA"
 		},
 		{
 			"TEMA" :  "WELFARE",
-			"ord" :   326,
 			"label" : "Rafforzeremo il sistema di prima\nassistenza con la collaborazione tra gli enti caritativi e le\naltre associazioni",
 			"type" :  "COPPOLA"
 		},
@@ -932,7 +964,6 @@
 		},
 		{
 			"TEMA" :  "AMBIENTE E TERRITORIO",
-			"ord" :   337,
 			"label" : "Rifiuti - La raccolta dei rifiuti deve avvenire tramite l\u2019utilizzo di\nmezzi elettrici leggeri e deve divenire fonte di reddito.",
 			"type" :  "COPPOLA"
 		},
@@ -943,8 +974,12 @@
 			"type" :  "RANALLI"
 		},
 		{
+			"TEMA" :  "SICUREZZA E LEGALITA",
+			"label" : "Ordinanze ad hoc del sindaco per contrastare \nla microcriminalit\u00E0 e il degrado urbano",
+			"type" :  "COPPOLA"
+		},
+		{
 			"TEMA" :  "MOBILITA",
-			"ord" :   316,
 			"label" : "realizzazione\ndi itinerari per raggiungere le scuole  destinati esclusivamente a piedi-bus o bici-bus,\ngestiti in collaborazione con volontari ed operatori della\nterza eta`",
 			"type" :  "COPPOLA"
 		},
@@ -956,7 +991,6 @@
 		},
 		{
 			"TEMA" :  "AMBIENTE E TERRITORIO",
-			"ord" :   347,
 			"label" : "HERA - ritornare alla gestione pubblica della\nraccolta tramite la conversione delle quote di Hera in beni\nstrumentali e un nuovo piano aziendale per TE.AM, societa` al\n100% pubblica",
 			"type" :  "COPPOLA"
 		},
@@ -986,7 +1020,6 @@
 		},
 		{
 			"TEMA" :  "MOBILITA",
-			"ord" :   317,
 			"label" : "sperimentare parcheggi di scambio per le scuole con navette\nelettriche per evitare ingorghi",
 			"type" :  "COPPOLA"
 		},
@@ -998,7 +1031,6 @@
 		},
 		{
 			"TEMA" :  "SCUOLA E LAVORO",
-			"ord" :   380,
 			"label" : "Chiederemo che i fornitori dei pasti nelle mense operino\nnel rispetto dell\u2019ambiente e con principi ispirati alla\nresponsabilita` sociale di impresa; che il servizio assicuri la\nsomministrazione di acqua pubblica e non imbottigliata;\nche ci sia l\u2019impegno a usare un servizio energeticamente\nsostenibile.",
 			"type" :  "COPPOLA"
 		},
@@ -1057,6 +1089,11 @@
 			"type" :  "VERLICCHI"
 		},
 		{
+			"TEMA" :  "ASSOCIAZIONI E SPORT",
+			"label" : "Il comune intende stipulare convenzioni con \npsicologi per la gestione dello stress e dell\u2019ansia \ndegli atleti che ne faranno richiesta, con \nparticolare attenzione per i giovani.",
+			"type" :  "COPPOLA"
+		},
+		{
 			"TEMA" :  "CULTURA-EVENTI-TURISMO",
 			"ord" :   297,
 			"label" : "istituire un \u201Cbrand\u201D, un \u201Cmarchio identificativo\u201D in cui coesistano la bandiera tricolore, il\ncavallino rampante e la caveja, che funga da matrice in cui la cultura, le tradizioni e il modo\ndi vivere trovino coesione e sintesi in unicum rappresentativo dell\u2019identit\u00E0 romagnola ed\nutile a promuovere la produzione locale",
@@ -1064,7 +1101,6 @@
 		},
 		{
 			"TEMA" :  "CULTURA-EVENTI-TURISMO",
-			"ord" :   395,
 			"label" : "stanziamento di 200.000 euro\nl\u2019anno per la creazione di almeno due eventi di carattere\nregionale e nazionale",
 			"type" :  "COPPOLA"
 		},
@@ -1118,7 +1154,6 @@
 		},
 		{
 			"TEMA" :  "CULTURA-EVENTI-TURISMO",
-			"ord" :   404,
 			"label" : "Il M5S vuole dunque costruire percorsi eno-gastronomici\ne progetti museali legati al mondo rurale, e convogliare i\nfondi europei per il potenziamento delle strutture ricettive\nadatte sia al turismo sofisticato sia a quello \u201Cmordi e\nfuggi\u201D.",
 			"type" :  "COPPOLA"
 		},
@@ -1130,7 +1165,6 @@
 		},
 		{
 			"TEMA" :  "AMBIENTE E TERRITORIO",
-			"ord" :   340,
 			"label" : "incentivera` la realizzazione di impianti\nfotovoltaici su edifici pubblici e industriali per permettere a\ntutti i cittadini di comprare quote di corrente fotovoltaica.",
 			"type" :  "COPPOLA"
 		},
@@ -1139,6 +1173,11 @@
 			"ord" :   224,
 			"label" : "monitorare il sistema dei canali e degli scoli incentivando sistemi di trattenimento acque\npiovane (tetti verdi, sistemi di accumulo, ecc.), prevenendo allagamenti e promuovendo,\nanche attraverso la previsione di specifici incentivi, la manutenzione dei fossi con i frontisti",
 			"type" :  "VERLICCHI"
+		},
+		{
+			"TEMA" :  "SICUREZZA E LEGALITA",
+			"label" : "Riordino delle mansioni e potenziamento \ndella Polizia Municipale al fine di presidiare \nil territorio in modo costante, puntuale e con \npattuglie in borghese.",
+			"type" :  "COPPOLA"
 		},
 		{
 			"TEMA" :  "ASSOCIAZIONI E SPORT",
@@ -1154,7 +1193,6 @@
 		},
 		{
 			"TEMA" :  "CULTURA-EVENTI-TURISMO",
-			"ord" :   402,
 			"label" : "creare un\u2019allestimento\nmuseografico neolitico investendo in un edificio che oltre\na fungere da museo, sia il luogo deputato per convegni\nsulla preistoria e l\u2019archeologia e che ospiti laboratori di\nrestauro",
 			"type" :  "COPPOLA"
 		},
@@ -1190,15 +1228,20 @@
 		},
 		{
 			"TEMA" :  "SICUREZZA E LEGALITA",
+			"ord" :   158,
+			"label" : "l\'istituzione di un numero verde a cui rivolgersi per emergenze",
+			"type" :  "RANALLI"
+		},
+		{
+			"TEMA" :  "SICUREZZA E LEGALITA",
 			"ord" :   154,
 			"label" : "legalit\u00E0 collaborazione tra le\nistituzioni pubbliche e le numerose associazioni di cittadini che si dedicano meritoriamente a\nquesto tema: il comune potr\u00E0 svolgere un importante ruolo di promozione e coordinamento",
 			"type" :  "RANALLI"
 		},
 		{
 			"TEMA" :  "SICUREZZA E LEGALITA",
-			"ord" :   158,
-			"label" : "l\'istituzione di un numero verde a cui rivolgersi per emergenze",
-			"type" :  "RANALLI"
+			"label" : "Stipula di un accordo tra tutti \nI soggetti interessati per \nScongiurare la chiusura della caserma\nDei carabinieri di Lugo centro",
+			"type" :  "COPPOLA"
 		},
 		{
 			"TEMA" :  "AMBIENTE E TERRITORIO",
@@ -1208,7 +1251,6 @@
 		},
 		{
 			"TEMA" :  "SCUOLA E LAVORO",
-			"ord" :   378,
 			"label" : "L\u2019offerta formativa dovra` comprendere esperienze di\nvolontariato, sessioni didattiche presso orti scolastici,\neducazione energetica ed ambientale ed una maggiore\nattenzione verso la creativita` individuale",
 			"type" :  "COPPOLA"
 		},
@@ -1255,20 +1297,27 @@
 			"type" :  "RANALLI"
 		},
 		{
+			"TEMA" :  "WELFARE",
+			"label" : "Istituzione di un budget economico a \nsostegno delle coppie giovani.",
+			"type" :  "COPPOLA"
+		},
+		{
 			"TEMA" :  "SANITA",
-			"ord" :   413,
 			"label" : "richiesta di incostituzionalita` della legge per il comma\n5 dell\u2019art. 2, oltre alla richiesta di abrogazione della legge\nregionale 29\/2004.",
 			"type" :  "COPPOLA"
 		},
 		{
+			"TEMA" :  "SICUREZZA E LEGALITA",
+			"label" : "Video sorveglianza attiva mediante \nl\u2019installazione di telecamere posizionate a \ncoprire la totalit\u00E0 dei luoghi pubblici.",
+			"type" :  "COPPOLA"
+		},
+		{
 			"TEMA" :  "ASSOCIAZIONI E SPORT",
-			"ord" :   387,
 			"label" : "\u201CForum\u201D\ndelle associazioni no profit e di volontariato presenti\nnel territorio in modo da dare ai cittadini una maggiore\nconoscenza, e quindi una maggiore possibilita` di\npartecipazione",
 			"type" :  "COPPOLA"
 		},
 		{
 			"TEMA" :  "INNOVAZIONE DIGITALE E DELLA PA - TRASPARENZA",
-			"ord" :   386,
 			"label" : "lotta alla burocrazia investendo nella formazione del\npersonale per l\u2019utilizzo di internet, nella creazione di strumenti\nrapidi e semplici online e nell\u2019eleborazione di procedure di\nautocertificazione",
 			"type" :  "COPPOLA"
 		},
@@ -1297,20 +1346,18 @@
 			"type" :  "VERLICCHI"
 		},
 		{
-			"TEMA" :  "SCUOLA E LAVORO",
-			"ord" :   382,
-			"label" : "Faremo in modo che studenti, personale scolastico e\naziende fornitrici del servizio siano alleati nel promuovere\npratiche di prevenzione e riduzione degli sprechi e dei\nrifiuti",
-			"type" :  "COPPOLA"
-		},
-		{
 			"TEMA" :  "WELFARE",
 			"ord" :   192,
 			"label" : "Famiglia - allestire luoghi qualificati dove sia possibile realizzare progetti e proposte rivolte ai bambini,\nagli adolescenti e alle famiglie (spazi di gioco e socializzazione per bambini e adolescenti\nall\u2019interno dei quali sperimentare laboratori ed esperienze significative per la loro crescita\nindividuale e collettiva);",
 			"type" :  "VERLICCHI"
 		},
 		{
+			"TEMA" :  "SCUOLA E LAVORO",
+			"label" : "Faremo in modo che studenti, personale scolastico e\naziende fornitrici del servizio siano alleati nel promuovere\npratiche di prevenzione e riduzione degli sprechi e dei\nrifiuti",
+			"type" :  "COPPOLA"
+		},
+		{
 			"TEMA" :  "AMBIENTE E TERRITORIO",
-			"ord" :   350,
 			"label" : "M5S si impegnera` a formare il personale adetto per fare\nin modo che gli interventi commissionati dal comune siano\ncompatibili con le norme vigenti.",
 			"type" :  "COPPOLA"
 		},
@@ -1328,7 +1375,6 @@
 		},
 		{
 			"TEMA" :  "AMBIENTE E TERRITORIO",
-			"ord" :   346,
 			"label" : "Rifiuti - Il piano prevede che\nla raccolta dei rifiuti sia fatta porta a porta in tutta Lugo\n(comprese frazioni), in modo da applicare la tariffa puntuale\n(meno residuale produci, meno paghi!).",
 			"type" :  "COPPOLA"
 		},
@@ -1345,6 +1391,11 @@
 			"type" :  "RANALLI"
 		},
 		{
+			"TEMA" :  "SVILUPPO URBANO",
+			"label" : "Revisione strutturata del RUE (contenuti e procedure burocratiche pi\u00F9 snelle, eliminazione di strafalcioni e contestualizzazione reale con il territorio).",
+			"type" :  "COPPOLA"
+		},
+		{
 			"TEMA" :  "WELFARE",
 			"ord" :   27,
 			"label" : "co-housing possono essere pensate anche per anziani attraverso\nprogetti quali la \"badante di condominio\" o \"condominio solidale\", dove convivono\ngenerazioni, culture e percorsi di vita diversi",
@@ -1358,7 +1409,6 @@
 		},
 		{
 			"TEMA" :  "WELFARE",
-			"ord" :   323,
 			"label" : "forme di sostegno alla formazione e professionalizzazione degli\nassistenti familiari e attivita` di supporto e formazione per la\ngestione in casa dei bisogni della terza eta",
 			"type" :  "COPPOLA"
 		},
@@ -1382,6 +1432,11 @@
 		},
 		{
 			"TEMA" :  "ASSOCIAZIONI E SPORT",
+			"label" : "Istituzione di un tavolo permanente all\u2019interno \ndel comune con cadenza trimestrale a cui \nsiederanno i dirigenti delle varie societ\u00E0 \nsportive del lughese e i gestori delle strutture \nsportive per discutere di iniziative e \nprogrammare le attivit\u00E0 sportive da \npromuovere.",
+			"type" :  "COPPOLA"
+		},
+		{
+			"TEMA" :  "ASSOCIAZIONI E SPORT",
 			"ord" :   95,
 			"label" : "valorizzazione delle associazioni di volontariato nelle frazioni;",
 			"type" :  "RANALLI"
@@ -1400,13 +1455,11 @@
 		},
 		{
 			"TEMA" :  "CULTURA-EVENTI-TURISMO",
-			"ord" :   393,
 			"label" : "accedere ai fondi nazionali ed europei per le iniziative culturali rivolte ai giovani,",
 			"type" :  "COPPOLA"
 		},
 		{
 			"TEMA" :  "ECONOMIA E IMPRESE",
-			"ord" :   359,
 			"label" : "garantire un adeguato livello di conoscenze\ntecniche, che veda integrate le componenti della\ninformazione, formazione e consulenza in un unico sistema",
 			"type" :  "COPPOLA"
 		},
@@ -1417,16 +1470,15 @@
 			"type" :  "RANALLI"
 		},
 		{
-			"TEMA" :  "ECONOMIA E IMPRESE",
-			"ord" :   368,
-			"label" : "Per coloro che aprono nel centro storico di Lugo un\nesercizio per il commercio, per l\u2019artigianato o di impresa\ncreativa (arte, design, musica, spettacolo) il M5S prevede\nl\u2019assegnazione di fondi tramite bando,",
-			"type" :  "COPPOLA"
-		},
-		{
 			"TEMA" :  "SVILUPPO URBANO",
 			"ord" :   35,
 			"label" : "proseguire nei restauri del Pavaglione e della Rocca ricercando finanziamenti europei,\npartenariato con privati, anche mediante project financing;",
 			"type" :  "RANALLI"
+		},
+		{
+			"TEMA" :  "ECONOMIA E IMPRESE",
+			"label" : "Per coloro che aprono nel centro storico di Lugo un\nesercizio per il commercio, per l\u2019artigianato o di impresa\ncreativa (arte, design, musica, spettacolo) il M5S prevede\nl\u2019assegnazione di fondi tramite bando,",
+			"type" :  "COPPOLA"
 		},
 		{
 			"TEMA" :  "ASSOCIAZIONI E SPORT",
@@ -1453,6 +1505,11 @@
 			"type" :  "RANALLI"
 		},
 		{
+			"TEMA" :  "MOBILITA",
+			"label" : "Potenziamento del trasporto e dei \ncollegamenti tra Lugo centro e le frazioni",
+			"type" :  "COPPOLA"
+		},
+		{
 			"TEMA" :  "WELFARE",
 			"ord" :   17,
 			"label" : "l\'ISEE \"corrente\",\naggiornato in tempo reale se c\'\u00E8 una significativa riduzione del reddito, perdita del lavoro o\ncassa integrazione",
@@ -1472,7 +1529,6 @@
 		},
 		{
 			"TEMA" :  "CULTURA-EVENTI-TURISMO",
-			"ord" :   403,
 			"label" : "Museo Neolitico riprendere in mano il progetto, creando un\nmuseo con ricostruzioni in scala reale, reperti suggestivi, e\nincentivando attivita` con scuole e circoli culturali.\nUn Museo pensato come \u201Cvetrina\u201D e come attivo\nlaboratorio scientifico, per la presentazione e la\ndivulgazione",
 			"type" :  "COPPOLA"
 		},
@@ -1481,6 +1537,11 @@
 			"ord" :   93,
 			"label" : "verificare se sia possibile estendere l\u2019utilizzo delle autocertificazioni oltre alle\nprocedure in cui \u00E8 gi\u00E0 prevista oggi, introdurre il principio del silenzio assenso in tutti i casi\nconsentiti dalla legge, concordare con gli altri enti interessati alle procedure di autorizzazione\ntutte le modalit\u00E0 possibili per ridurre i tempi e dare risposte rapide e complete alle imprese.",
 			"type" :  "RANALLI"
+		},
+		{
+			"TEMA" :  "INNOVAZIONE DIGITALE E DELLA PA - TRASPARENZA",
+			"label" : "Piena accessibilit\u00E0 delle informazioni, per \ntutti i cittadini, relative all\u2019amministrazione \ncomunale e disposizione di servizi telematici \npi\u00F9 semplici.",
+			"type" :  "COPPOLA"
 		},
 		{
 			"TEMA" :  "SVILUPPO URBANO",
@@ -1502,13 +1563,11 @@
 		},
 		{
 			"TEMA" :  "AMBIENTE E TERRITORIO",
-			"ord" :   348,
 			"label" : "Rifiuti - Voltana il M5S prevede la dismissione della discarica\nentro il 2015 e, se Hera lo permettera` , l\u2019ammodernamento\ndel CIR sull\u2019esempio del centro di Vedelago, puntando al\nrecupero del 20\/30% del rifiuto residuale.",
 			"type" :  "COPPOLA"
 		},
 		{
 			"TEMA" :  "ECONOMIA E IMPRESE",
-			"ord" :   356,
 			"label" : "Fondi 2014-2020 Europa  Il M5S intende attingere a questi fondi per facilitare\nprocessi di ristrutturazione e di innovazione fondamentali\nper superare l\u2019attuale fase recessiva",
 			"type" :  "COPPOLA"
 		},
@@ -1519,6 +1578,16 @@
 			"type" :  "RANALLI"
 		},
 		{
+			"TEMA" :  "CULTURA-EVENTI-TURISMO",
+			"label" : "Istituzione di una Tessera Giovani per \nagevolazioni economiche su iniziative \nculturali, per il teatro, per il cinema e \nper l\u2019acquisto di prodotti. In cambio il \npossessore garantisce al comune ore di \nvolontariato.",
+			"type" :  "COPPOLA"
+		},
+		{
+			"TEMA" :  "SCUOLA E LAVORO",
+			"label" : "Creazione dell\u2019Universit\u00E0 delle Arti e dei Mestieri",
+			"type" :  "COPPOLA"
+		},
+		{
 			"TEMA" :  "SICUREZZA E LEGALITA",
 			"ord" :   162,
 			"label" : "collaborazione sempre pi\u00F9 forte con le forze dell\'ordine,\nconcordando e condividendo servizi, interventi e attivit\u00E0 attraverso il Comitato per\nl\'ordine pubblico",
@@ -1526,7 +1595,6 @@
 		},
 		{
 			"TEMA" :  "ECONOMIA E IMPRESE",
-			"ord" :   367,
 			"label" : "studio sui beni immobili che non producono reddito ne\nsono utilizzati come abitazione. Per essi si cerchera` di abbattere\nla fiscalita",
 			"type" :  "COPPOLA"
 		},
@@ -1544,7 +1612,6 @@
 		},
 		{
 			"TEMA" :  "AMBIENTE E TERRITORIO",
-			"ord" :   345,
 			"label" : "daremo battaglia all\u2019interno del consiglio\ndell\u2019unione contro le Officine dell\u2019Ambiente e il \u201CMatrix\u201D.",
 			"type" :  "COPPOLA"
 		},
@@ -1561,6 +1628,12 @@
 			"type" :  "RANALLI"
 		},
 		{
+			"TEMA" :  "CULTURA-EVENTI-TURISMO",
+			"ord" :   111,
+			"label" : "avviare le relazioni per realizzare un accordo con le agenzie turistiche\nper sfruttare la sinergia creata dall\'arrivo delle navi crociera nel porto di Ravenna",
+			"type" :  "RANALLI"
+		},
+		{
 			"TEMA" :  "SVILUPPO URBANO",
 			"ord" :   218,
 			"label" : "realizzare interventi di miglioramento puntuale in costruzioni di propriet\u00E0 comunale,\nadottando tecniche e materiali innovativi e meno invasivi (es. carbonio, fibra di vetro, ecc.).",
@@ -1568,19 +1641,11 @@
 		},
 		{
 			"TEMA" :  "ECONOMIA E IMPRESE",
-			"ord" :   362,
 			"label" : "Daremo una forte spinta al turismo eno-gastronomico,\ntutelando il patrimonio culturale delle case coloniche",
 			"type" :  "COPPOLA"
 		},
 		{
-			"TEMA" :  "CULTURA-EVENTI-TURISMO",
-			"ord" :   111,
-			"label" : "avviare le relazioni per realizzare un accordo con le agenzie turistiche\nper sfruttare la sinergia creata dall\'arrivo delle navi crociera nel porto di Ravenna",
-			"type" :  "RANALLI"
-		},
-		{
 			"TEMA" :  "AMBIENTE E TERRITORIO",
-			"ord" :   339,
 			"label" : "Tutti gli edifici in stato di abbandono o senza permesso di\nagibilita` saranno al centro della nuova industria edile",
 			"type" :  "COPPOLA"
 		},
@@ -1616,7 +1681,6 @@
 		},
 		{
 			"TEMA" :  "SVILUPPO URBANO",
-			"ord" :   335,
 			"label" : "ristrutturazioni che garantiscono il miglioramento\nsensibile dell\u2019efficienza energetica dello stabile. Il bando di\nassegnazione si basera` sui seguenti parametri, finanziando\nin base ad essi da un minimo del 5% e un massimo del 10%\nde costo dei lavori:\n1. Il miglioramento della classe energetica, certificata da un\nfunzionario del comune e a spese del richiedente.\n2. I principi di bio-edilizia con cui si provvede alla\nriqualificazione dell\u2019edificio.\n3. Il recupero di un locale del centro storico a scopo\nresidenziale (e non speculativo) da parte di chi effettua\nla ristrutturazione per almeno cinque anni (si verifica la\nresidenza).\n4. Il recupero di un edificio di particolare interesse storicoculturale.",
 			"type" :  "COPPOLA"
 		},
@@ -1628,15 +1692,14 @@
 		},
 		{
 			"TEMA" :  "ECONOMIA E IMPRESE",
-			"ord" :   361,
-			"label" : "Incentivare la partecipazione degli operatori agricoli\nad attivita` di formazione continua volte ad accrescerne le\ncompetenze professionali per stimolare l\u2019innovazione, la\ncooperazione",
-			"type" :  "COPPOLA"
-		},
-		{
-			"TEMA" :  "ECONOMIA E IMPRESE",
 			"ord" :   63,
 			"label" : "una logica premiale: l\u2019uso della fiscalit\u00E0 locale per valorizzare i comportamenti\nvirtuosi;",
 			"type" :  "RANALLI"
+		},
+		{
+			"TEMA" :  "ECONOMIA E IMPRESE",
+			"label" : "Incentivare la partecipazione degli operatori agricoli\nad attivita` di formazione continua volte ad accrescerne le\ncompetenze professionali per stimolare l\u2019innovazione, la\ncooperazione",
+			"type" :  "COPPOLA"
 		},
 		{
 			"TEMA" :  "CULTURA-EVENTI-TURISMO",
@@ -1664,7 +1727,6 @@
 		},
 		{
 			"TEMA" :  "CULTURA-EVENTI-TURISMO",
-			"ord" :   391,
 			"label" : "rivoluzioneremo la biennale da fiera campionaria ad evento culturale di livello,",
 			"type" :  "COPPOLA"
 		},
@@ -1673,6 +1735,11 @@
 			"ord" :   251,
 			"label" : "valorizzare il Pavaglione come un luogo di incontro , coniugando tradizione e innovazione. Il\nPavaglione deve diventare un vero e proprio centro commerciale pubblico, per la\nvalorizzazione della cultura artigianale ed enogastronomica del nostro territorio,\nripensando anche agli spazi esistenti, attraverso una compartecipazione di investimenti\npubblici e privati",
 			"type" :  "VERLICCHI"
+		},
+		{
+			"TEMA" :  "SCUOLA E LAVORO",
+			"label" : "Reintroduzione al lavoro di cassa-integrati \ne disoccupati con l\u2019istituzione della Banca \ndel Tempo e con commesse comunali.",
+			"type" :  "COPPOLA"
 		},
 		{
 			"TEMA" :  "ECONOMIA E IMPRESE",
@@ -1688,7 +1755,6 @@
 		},
 		{
 			"TEMA" :  "CULTURA-EVENTI-TURISMO",
-			"ord" :   401,
 			"label" : "Strade Europee delle Cultura ben tre Strade della Cultura che potrebbero interessare la\nBassa Romagna tutta. La Strada Iter Vitis, la Via Europea\ndelle Ceramiche e la Transromanica",
 			"type" :  "COPPOLA"
 		},
@@ -1700,7 +1766,6 @@
 		},
 		{
 			"TEMA" :  "AMBIENTE E TERRITORIO",
-			"ord" :   344,
 			"label" : "Ci opporremo alla costruzione della centrale di Stoccaggio tra\nAlfonsine e Voltana",
 			"type" :  "COPPOLA"
 		},
@@ -1729,6 +1794,11 @@
 			"type" :  "VERLICCHI"
 		},
 		{
+			"TEMA" :  "INNOVAZIONE DIGITALE E DELLA PA - TRASPARENZA",
+			"label" : "Incontro con il sindaco aperto al pubblico \n(assemblea cittadina) due volte al mese.",
+			"type" :  "COPPOLA"
+		},
+		{
 			"TEMA" :  "SANITA",
 			"ord" :   309,
 			"label" : "incentivare la collaborazione tra associazioni di volontariato, le loro rappresentanze e i servizi\nsociali, valorizzando il lavoro che gi\u00E0 viene svolto sul territorio, nel rigoroso rispetto del\nquadro normativo ed economico vigente;",
@@ -1742,7 +1812,6 @@
 		},
 		{
 			"TEMA" :  "WELFARE",
-			"ord" :   327,
 			"label" : "Sosterremo l\u2019associazionismo nella\ncreazione di piattaforme per la raccolta delle eccedenze\ndi cibo dalle mense locali, dai distributori e dai produttori\nlocali, al fine di facilitare la distribuzione gratuita di cibo",
 			"type" :  "COPPOLA"
 		},
@@ -1784,7 +1853,6 @@
 		},
 		{
 			"TEMA" :  "SANITA",
-			"ord" :   414,
 			"label" : "verra` richiesta l\u2019istituzione dell\u2019unita`\nsemplice di Senologia nell\u2019ospedale di Lugo e si lavorera` per\nil ritorno del Dott. Cesare Magalotti a cui verra` assegnata la\ndirezione dell\u2019unita` .",
 			"type" :  "COPPOLA"
 		},
@@ -1819,15 +1887,15 @@
 			"type" :  "RANALLI"
 		},
 		{
-			"TEMA" :  "CULTURA-EVENTI-TURISMO",
-			"ord" :   117,
-			"label" : "creare siti web con pubblicizzazione degli eventi e percorsi storicoculturali-\nenogastronomici per incentivare il turismo alternativo e trasversale nel territorio,\ncon traduzione in inglese per l\'estero e la predisposizione di \u201Cpacchetti\u201D.",
-			"type" :  "RANALLI"
-		},
-		{
 			"TEMA" :  "SVILUPPO URBANO",
 			"ord" :   41,
 			"label" : "recupero di spazi vuoti lasciati da esercizi storici che hanno chiuso;",
+			"type" :  "RANALLI"
+		},
+		{
+			"TEMA" :  "CULTURA-EVENTI-TURISMO",
+			"ord" :   117,
+			"label" : "creare siti web con pubblicizzazione degli eventi e percorsi storicoculturali-\nenogastronomici per incentivare il turismo alternativo e trasversale nel territorio,\ncon traduzione in inglese per l\'estero e la predisposizione di \u201Cpacchetti\u201D.",
 			"type" :  "RANALLI"
 		},
 		{
@@ -1835,6 +1903,11 @@
 			"ord" :   53,
 			"label" : "dovremo rivedere la pianificazione di nuovi impianti e industrie con\nimpatto ambientale significativo",
 			"type" :  "RANALLI"
+		},
+		{
+			"TEMA" :  "SCUOLA E LAVORO",
+			"label" : "Le campagne promozionali di carattere \nsociale e le iniziative di comunicazione \nsaranno, ove possibile, fonte di \nsperimentazione, sviluppo e remunerazione \nper giovani professionisti locali.",
+			"type" :  "COPPOLA"
 		},
 		{
 			"TEMA" :  "ECONOMIA E IMPRESE",
@@ -1850,13 +1923,11 @@
 		},
 		{
 			"TEMA" :  "SCUOLA E LAVORO",
-			"ord" :   383,
 			"label" : "M5S sara` promotore dello scambio di libri di testo\nscolastici usati. Il servizio permettera` agli utenti di mettere\na disposizione libri di testo usati e, allo stesso tempo, di\nconsultare e cercare nelle liste di libri disponibili",
 			"type" :  "COPPOLA"
 		},
 		{
 			"TEMA" :  "ASSOCIAZIONI E SPORT",
-			"ord" :   388,
 			"label" : "comune stesso e permettera` , all\u2019interno della\nmanifestazione, di distribuire premi in denaro per le\norganizzazioni piu` virtuose e piu` radicate sul territorio",
 			"type" :  "COPPOLA"
 		},
@@ -1886,7 +1957,6 @@
 		},
 		{
 			"TEMA" :  "SCUOLA E LAVORO",
-			"ord" :   384,
 			"label" : "creando un ufficio di occupazione che aiuti a mettere in\ncontatto il lavoratore con l\u2019azienda (e non viceversa), che\nfavorisca ore di servizio civile da parte dei cassaintegrati, e\nche crei un modello di occupazione basato sulla banca del\ntempo.",
 			"type" :  "COPPOLA"
 		},
@@ -1927,6 +1997,11 @@
 			"type" :  "VERLICCHI"
 		},
 		{
+			"TEMA" :  "ASSOCIAZIONI E SPORT",
+			"label" : "Istituzione di un centro giovani finalizzato \nallo sviluppo delle arti, della cultura, della \nlegalit\u00E0 e del volontariato. Una struttura \ncompletamente dedicata in cui investire \nogni anno un budget di spesa per \nmigliorarne i servizi.",
+			"type" :  "COPPOLA"
+		},
+		{
 			"TEMA" :  "SVILUPPO URBANO",
 			"ord" :   217,
 			"label" : "Sicurezza sismica - attivare interventi di miglioramento sismico nei fabbricati considerati ad alto rischio",
@@ -1958,7 +2033,6 @@
 		},
 		{
 			"TEMA" :  "AMBIENTE E TERRITORIO",
-			"ord" :   336,
 			"label" : "HERA - Creare una societa` pubblica\nper la gestione della raccolta rifiuti si puo` risparmiare strutturalmente\npiu` di un milione di euro l\u2019anno.",
 			"type" :  "COPPOLA"
 		},
@@ -1981,15 +2055,19 @@
 			"type" :  "RANALLI"
 		},
 		{
+			"TEMA" :  "CULTURA-EVENTI-TURISMO",
+			"label" : "Iter Vitis M5S si fara` promotore e sostenitore\ndella nascita di un consorzio di produttori locali che\npossano aderire al progetto ed accedere ai programmi\neuropei di formazione, di ricerca e di analisi centrati sul\nturismo culturale e allo stanziamento dei fondi relativi",
+			"type" :  "COPPOLA"
+		},
+		{
 			"TEMA" :  "SCUOLA E LAVORO",
 			"ord" :   87,
 			"label" : "valutare la possibilit\u00E0 di\nattrarre una sede distaccata dell\'universit\u00E0 e attivare una collaborazione con l\'Universit\u00E0 per\ngli adulti della Bassa Romagna",
 			"type" :  "RANALLI"
 		},
 		{
-			"TEMA" :  "CULTURA-EVENTI-TURISMO",
-			"ord" :   405,
-			"label" : "Iter Vitis M5S si fara` promotore e sostenitore\ndella nascita di un consorzio di produttori locali che\npossano aderire al progetto ed accedere ai programmi\neuropei di formazione, di ricerca e di analisi centrati sul\nturismo culturale e allo stanziamento dei fondi relativi",
+			"TEMA" :  "ASSOCIAZIONI E SPORT",
+			"label" : "Progetto motori: si individuer\u00E0 uno spazio \nsemi-permanente e adeguato per iniziative \nsportive \u201Csu due ruote\u201D e manifestazioni \u201Csu \nquattro ruote\u201D.",
 			"type" :  "COPPOLA"
 		},
 		{
@@ -2030,6 +2108,11 @@
 			"ord" :   101,
 			"label" : "societ\u00E0 sportive agevolate nello svolgimento dei loro compiti, siano essi burocratici, fiscali e istituzionali. Un\nsupporto concreto potrebbe essere rappresentato da una consulta, rivista e corretta, in grado\nnon solo di fornire suggerimenti e idee, ma anche risposte fattive alle esigenze quotidiane\nrapportandosi direttamente con le istituzioni locali.",
 			"type" :  "RANALLI"
+		},
+		{
+			"TEMA" :  "WELFARE",
+			"label" : "Revisione completa dei bandi di assegnazione per i servizi alle famiglie, in modo da cancellare le discriminazioni basate \nsu dati fittizi (numero di figli, nazionalit\u00E0, ecc..) e verificando le reali situazioni di criticit\u00E0 tramite gli assistenti sociali.",
+			"type" :  "COPPOLA"
 		},
 		{
 			"TEMA" :  "CULTURA-EVENTI-TURISMO",
@@ -2111,7 +2194,6 @@
 		},
 		{
 			"TEMA" :  "WELFARE",
-			"ord" :   330,
 			"label" : "Famiglia - Saranno sviluppate forme\ninnovative di sostegno tra famiglie (famiglie che sostengono\naltre famiglie in un percorso di potenziamento delle\ncapacita` ed abilita` ).",
 			"type" :  "COPPOLA"
 		},
@@ -2123,7 +2205,6 @@
 		},
 		{
 			"TEMA" :  "WELFARE",
-			"ord" :   333,
 			"label" : "previste forme di incentivo per le aziende\nche implementeranno asili nido",
 			"type" :  "COPPOLA"
 		},
@@ -2135,13 +2216,11 @@
 		},
 		{
 			"TEMA" :  "ECONOMIA E IMPRESE",
-			"ord" :   357,
 			"label" : "incoraggiare la ristrutturazione e\nl\u2019ammodernamento delle aziende agricole, in particolare\nper aumentare la quota di mercato e l\u2019orientamento al\nmercato nonche\u00B4 la diversificazione delle attivita`",
 			"type" :  "COPPOLA"
 		},
 		{
 			"TEMA" :  "CULTURA-EVENTI-TURISMO",
-			"ord" :   400,
 			"label" : "Il M5S si impegna a distribuire ogni mese un tot\ndi biglietti (in base al numero di manifestazioni) in forma\ngratuita` ai meno abbienti e di concordare parte della\nprogrammazione stagionale con i cittadini e le compagnie\ndel territorio.",
 			"type" :  "COPPOLA"
 		},
@@ -2153,7 +2232,6 @@
 		},
 		{
 			"TEMA" :  "ECONOMIA E IMPRESE",
-			"ord" :   360,
 			"label" : "creare un portale dell\u2019agricoltura che\npermetta la vendita di prodotti via web DOP, DOC e DOCG\ndella Bassa Romagna",
 			"type" :  "COPPOLA"
 		},
@@ -2177,7 +2255,6 @@
 		},
 		{
 			"TEMA" :  "WELFARE",
-			"ord" :   324,
 			"label" : "corsi di prima\ninformatizzazione, reintegro nel tessuto sociale tramite nuove\nforme occupazionali e i volontariato e iniziative sinergiche tra\ngiovani ed anziani.",
 			"type" :  "COPPOLA"
 		},
@@ -2201,7 +2278,6 @@
 		},
 		{
 			"TEMA" :  "WELFARE",
-			"ord" :   332,
 			"label" : "predisporre un modello organizzativo che\nprevede l\u2019inclusivita` delle organizzazioni del territorio e il\nrecepimento dei fondi europei",
 			"type" :  "COPPOLA"
 		},
@@ -2213,7 +2289,6 @@
 		},
 		{
 			"TEMA" :  "CULTURA-EVENTI-TURISMO",
-			"ord" :   389,
 			"label" : "\u00C8 dunque doveroso concedere un portafoglio all\u2019assessorato alla cultura da investire in attivit\u00E0 di ampio respiro per esperienze di crescita squisitamente culturali, a carattere locale, nazionale ed internazionale",
 			"type" :  "COPPOLA"
 		},
@@ -2243,15 +2318,8 @@
 		},
 		{
 			"TEMA" :  "SCUOLA E LAVORO",
-			"ord" :   375,
 			"label" : "Rivedra` dove possibile e necessario la logica\ndegli appalti e delle privatizzazioni riguardanti tutto\nl\u2019ambito scolastico",
 			"type" :  "COPPOLA"
-		},
-		{
-			"TEMA" :  "WELFARE",
-			"ord" :   190,
-			"label" : "valutare l\u2019opportunit\u00E0 e mettere in campo risorse che possano costituire per le donne\nun\u2019alternativa reale all\u2019aborto, come previsto dall\u2019articolo 2 della Legge 194 del 1978",
-			"type" :  "VERLICCHI"
 		},
 		{
 			"TEMA" :  "AMBIENTE E TERRITORIO",
@@ -2264,6 +2332,12 @@
 			"ord" :   144,
 			"label" : "Vogliamo promuovere esperienze formative attraverso\npartnership di livello internazionale per dare opportunit\u00E0 di scambio ai nostri ragazzi",
 			"type" :  "RANALLI"
+		},
+		{
+			"TEMA" :  "WELFARE",
+			"ord" :   190,
+			"label" : "valutare l\u2019opportunit\u00E0 e mettere in campo risorse che possano costituire per le donne\nun\u2019alternativa reale all\u2019aborto, come previsto dall\u2019articolo 2 della Legge 194 del 1978",
+			"type" :  "VERLICCHI"
 		},
 		{
 			"TEMA" :  "ECONOMIA E IMPRESE",
@@ -2290,26 +2364,24 @@
 			"type" :  "VERLICCHI"
 		},
 		{
-			"TEMA" :  "INNOVAZIONE DIGITALE E DELLA PA - TRASPARENZA",
-			"ord" :   270,
-			"label" : "agevolare, grazie alla diffusione della tecnologia, che rende capillari le informazioni,\nprocessi di partecipazione progettuale e decisionale per imprese e cittadini",
-			"type" :  "VERLICCHI"
-		},
-		{
-			"TEMA" :  "WELFARE",
-			"ord" :   321,
-			"label" : "Casa - programma\ndi assegnazione di abitazioni a canone agevolato o\ngratuito per un tempo limitato in assistenza a famiglie\nmonoreddito, a divorziati in ristrettezze economiche e\nper vittime di maltrattamento",
-			"type" :  "COPPOLA"
-		},
-		{
 			"TEMA" :  "ECONOMIA E IMPRESE",
 			"ord" :   250,
 			"label" : "favorire l\'aggregazione di punti vendita merci (alimentari ed extra-alimentari) nelle singole\nfrazioni",
 			"type" :  "VERLICCHI"
 		},
 		{
+			"TEMA" :  "WELFARE",
+			"label" : "Casa - programma\ndi assegnazione di abitazioni a canone agevolato o\ngratuito per un tempo limitato in assistenza a famiglie\nmonoreddito, a divorziati in ristrettezze economiche e\nper vittime di maltrattamento",
+			"type" :  "COPPOLA"
+		},
+		{
+			"TEMA" :  "INNOVAZIONE DIGITALE E DELLA PA - TRASPARENZA",
+			"ord" :   270,
+			"label" : "agevolare, grazie alla diffusione della tecnologia, che rende capillari le informazioni,\nprocessi di partecipazione progettuale e decisionale per imprese e cittadini",
+			"type" :  "VERLICCHI"
+		},
+		{
 			"TEMA" :  "ECONOMIA E IMPRESE",
-			"ord" :   372,
 			"label" : "stringere un accordo con i\ncentri commerciali sulle aperture selvagge per garantire che\nla domenica sia davvero un giorno di riposo per tutti",
 			"type" :  "COPPOLA"
 		},
@@ -2321,7 +2393,6 @@
 		},
 		{
 			"TEMA" :  "AMBIENTE E TERRITORIO",
-			"ord" :   343,
 			"label" : "M5S avviera` una verifica puntuale degli impianti di\nproduzione elettrica e del loro impatto inquinante (biodigestori,\ncentrali ad olio, ecc...).",
 			"type" :  "COPPOLA"
 		},
@@ -2344,6 +2415,16 @@
 			"type" :  "VERLICCHI"
 		},
 		{
+			"TEMA" :  "INNOVAZIONE DIGITALE E DELLA PA - TRASPARENZA",
+			"label" : "Pubblicazione dei bilanci corredati da \nschemi e grafici che aiutino a comprendere \ncon immediatezza l\u2019andamento della spesa \npubblica.",
+			"type" :  "COPPOLA"
+		},
+		{
+			"TEMA" :  "SVILUPPO URBANO",
+			"label" : "un nuovo assetto stradale e collegamenti migliorati con il centro per Madonna delle Stuoie",
+			"type" :  "COPPOLA"
+		},
+		{
 			"TEMA" :  "CULTURA-EVENTI-TURISMO",
 			"ord" :   295,
 			"label" : "sviluppare un museo concepito come un percorso diacronico, che parta dall\u2019importante\nritrovamento di epoca neolitica dell\u2019ex fornace Gattelli per snodarsi, nell\u2019arco dei millenni, e\nraccontare le trasformazioni antropiche del paesaggio locale e l\u2019evolversi del territorio\nattraverso le testimonianze storiche, artistiche e architettoniche;",
@@ -2363,7 +2444,6 @@
 		},
 		{
 			"TEMA" :  "MOBILITA",
-			"ord" :   315,
 			"label" : "piano di incentivi per le aziende\nlocali che si impegnano a sviluppare un trasporto pubblico\nscolastico, con mezzi poco impattanti sull\u2019ambiente e\npercorsi puntuali ed agevoli.",
 			"type" :  "COPPOLA"
 		},
@@ -2378,6 +2458,11 @@
 			"ord" :   225,
 			"label" : "favorire l\'uso di materiali e l\'adozione di tecniche a basso impatto ambientale",
 			"type" :  "VERLICCHI"
+		},
+		{
+			"TEMA" :  "ASSOCIAZIONI E SPORT",
+			"label" : "Creazione dI un Centro di Educazione \nGiovanile (Cag) in cui operano giovani \nmotivati e capaci, in grado di affiancare \nminori preadolescenti (11-13) a rischio di \nemarginazione.",
+			"type" :  "COPPOLA"
 		},
 		{
 			"TEMA" :  "AMBIENTE E TERRITORIO",
@@ -2398,20 +2483,27 @@
 			"type" :  "VERLICCHI"
 		},
 		{
+			"TEMA" :  "WELFARE",
+			"label" : "Sostegno alla formazione di educatori ed \neducatrici per i bambini in et\u00E0 da 0 a 3 anni \nCi\u00F2 allo scopo di favorire quelle famiglie che si \naccordano e mettono a disposizione di suddetti \neducatori e di altri bambini la propria casa, in \nmodo da accorciare le liste d\u2019attesa per i nidi.",
+			"type" :  "COPPOLA"
+		},
+		{
+			"TEMA" :  "SICUREZZA E LEGALITA",
+			"label" : "Istituzione di un numero gratuito per le \nsegnalazioni dei cittadini via MMS relative \nad illeciti.",
+			"type" :  "COPPOLA"
+		},
+		{
 			"TEMA" :  "CULTURA-EVENTI-TURISMO",
-			"ord" :   407,
 			"label" : "Turismo sportivo L\u2019obiettivo del M5S e` focalizzare parte di questo\nflusso turistico nella Bassa Romagna, investendo nelle\nstrutture ricettive, in quelle sportive, nella formazione degli\nadetti e nella comunicazione su scala nazionale",
 			"type" :  "COPPOLA"
 		},
 		{
 			"TEMA" :  "INTEGRAZIONE",
-			"ord" :   411,
 			"label" : "Accompagneremo il percorso di\nricongiungimento dei bambini migranti con i propri genitori\ne sviluppare e\/o potenziare gli interventi di mediazione\nculturale",
 			"type" :  "COPPOLA"
 		},
 		{
 			"TEMA" :  "INTEGRAZIONE",
-			"ord" :   410,
 			"label" : "integrare\nl\u2019offerta scolastica con attivita` terze, promosse del comune\ne che coinvolgano soprattutto i genitori, in modo che la\nfase di apprendimento dei figli non termini dopo l\u2019orario\nscolastico",
 			"type" :  "COPPOLA"
 		},
@@ -2441,7 +2533,6 @@
 		},
 		{
 			"TEMA" :  "WELFARE",
-			"ord" :   329,
 			"label" : "Tutti gli investimenti infrastrutturali\nsaranno pianificati per dare possibilita` ai disoccupati di\nessere assunti in base alla propria professionalita",
 			"type" :  "COPPOLA"
 		},
@@ -2471,13 +2562,11 @@
 		},
 		{
 			"TEMA" :  "AMBIENTE E TERRITORIO",
-			"ord" :   353,
 			"label" : "Tutti potranno avere il proprio orto, mangiare quello che\nproducono, sviluppare il senso di associazionismo e la cultura\ndel cibo nostrano.",
 			"type" :  "COPPOLA"
 		},
 		{
 			"TEMA" :  "ECONOMIA E IMPRESE",
-			"ord" :   374,
 			"label" : "M5S mettera` a disposizione i locali che il comune possiede\nin comodato d\u2019uso gratuito per due anni a tutti quei\ngiovani (18-30) che costituiranno un\u2019impresa, apriranno\nun\u2019attivita` commerciale e\/o artigianale, costituiranno\nassociazioni senza scopo di lucro",
 			"type" :  "COPPOLA"
 		},
